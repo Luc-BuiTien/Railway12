@@ -1,0 +1,1 @@
+SELECT * FROM TestingSystem_demo_join.Account;
